@@ -94,7 +94,7 @@ public class CalificarActivity extends AppCompatActivity {
                     break;
                 }
 
-            case R.id.ic_actualizar:
+            /*case R.id.ic_actualizar:
                 Toast.makeText(this,"Hizo clic en actualizar", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.ic_borrar:
@@ -102,7 +102,7 @@ public class CalificarActivity extends AppCompatActivity {
                 break;
             case R.id.ic_home:
                 Toast.makeText(this,"Hizo clic en home",Toast.LENGTH_SHORT).show();
-                break;
+                break;*/
             default:
                 break;
         }
